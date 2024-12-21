@@ -29,4 +29,22 @@
     }
 }
 
+// else if statements:>
 
+
+{
+let om="om";
+let nirali="nirali";
+let both="both";
+if (om===nirali) {
+    console.log("Om love Nirali");
+}
+else if(nirali!=om){
+    console.log("Nirali love Om");
+    
+}
+else {
+    console.log("nirali love Om and om love nirali");
+}
+
+}
