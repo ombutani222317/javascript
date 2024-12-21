@@ -1,11 +1,9 @@
+// switch case:>
 {
-    let hero="alu arjun";
+    let hero = "alu arjun";
     switch (hero) {
         case "salman khan":
             console.log("salaman khan is my fav.. hero");
-            break;
-        case "sarukh khan":
-            console.log("sarukh khan is my fav.. hero");
             break;
         case "alu arjun":
             console.log("alu arjun  is my fav.. hero");
@@ -17,3 +15,18 @@
             break;
     }
 }
+
+
+// if else:>
+{
+    let x = 10;
+    let y = 20;
+    if (y > x) {
+        console.log(x + y);
+    }
+    else {
+        console.log(x - y);
+    }
+}
+
+
