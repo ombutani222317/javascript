@@ -14,5 +14,5 @@
     }
     console.log(object);
     
-    let map
+    let mapobject=new mapobject;
 }
