@@ -22,3 +22,20 @@
     console.log(date);
 
 }
+
+
+// 2.Date set object 
+
+{
+    let date = new Date();
+    date.setDate();
+    date.setFullYear();
+    date.setHours();
+    date.setMilliseconds();
+    date.setMinutes();
+    date.setMonth();
+    date.setSeconds();
+    date.setTime();
+
+    console.log(date);
+}
