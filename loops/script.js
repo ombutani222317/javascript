@@ -62,4 +62,4 @@
 
 // 4. Write a program that prints the first 10 numbers in the Fibonacci sequence.
 
-{ }
+    
